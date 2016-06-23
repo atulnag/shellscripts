@@ -1,2 +1,2 @@
 # shellscripts
-My Shell Scripts
+splitpdf.sh - splits pdf into chunks based on number provided
